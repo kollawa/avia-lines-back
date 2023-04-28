@@ -1,8 +1,8 @@
 const Amadeus = require('amadeus');
 
 const amadeusApi = new Amadeus({
-  clientId: 'FcTTwNamfzQg7AFE4IAr06d5DJBa98V8',
-  clientSecret: '6E1cFikplhd6lzQ1'
+  clientId: 'scaTkOPIdKkhQb8bY0w8tyIvqxV21JFM',
+  clientSecret: 'oVAkrqbm7Cm2LyEr'
 });
 
 module.exports = amadeusApi
